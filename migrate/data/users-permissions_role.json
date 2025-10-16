@@ -1,0 +1,2 @@
+{"_id":{"$oid":"68f0c5ada21def5598db5651"},"name":"Authenticated","description":"Default role given to authenticated user.","type":"authenticated","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"68f0c5ada21def5598db5652"},"name":"Public","description":"Default role given to unauthenticated user.","type":"public","__v":{"$numberInt":"0"}}

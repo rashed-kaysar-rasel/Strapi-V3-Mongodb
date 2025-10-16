@@ -1,0 +1,1 @@
+{"_id":{"$oid":"68f0c5aca21def5598db5643"},"code":"en","name":"English (en)","createdAt":{"$date":{"$numberLong":"1760609708986"}},"updatedAt":{"$date":{"$numberLong":"1760609708986"}},"__v":{"$numberInt":"0"}}

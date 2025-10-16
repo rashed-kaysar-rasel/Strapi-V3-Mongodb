@@ -1,0 +1,1 @@
+{"_id":{"$oid":"68f0c5db59942f20f8ab0f77"},"isActive":true,"blocked":false,"roles":[{"$oid":"68f0c5afa21def5598db56ff"}],"username":null,"registrationToken":null,"email":"rashedkaysar321@gmail.com","password":"$2a$10$DEReusc5NZrz6btYFVk4QuaEDZYVCsfxAMhb6Uh4zcUnP3qrZdjRa","firstname":"Rashed","lastname":"Rasel","__v":{"$numberInt":"0"}}
