@@ -2,7 +2,8 @@
   "kind": "collectionType",
   "collectionName": "posts",
   "info": {
-    "name": "posts"
+    "name": "posts",
+    "description": ""
   },
   "options": {
     "increments": true,
@@ -11,14 +12,14 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "title": {
+    "Title": {
       "type": "string"
     },
-    "slug": {
+    "Slug": {
       "type": "uid",
-      "targetField": "title"
+      "targetField": "Title"
     },
-    "description": {
+    "Description": {
       "type": "text"
     }
   }
